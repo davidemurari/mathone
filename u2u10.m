@@ -1,7 +1,7 @@
 clear all;
 close all;
 
-%% Risoluzione equazione di poisson -u''(x) = f(x)
+%% Risoluzione equazione di poisson u''(x) + u'(x) = 1
 
 L = 1;
 N = 100; %Numero di punti nel dominio
