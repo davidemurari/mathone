@@ -3,14 +3,17 @@
 Avete messo queste citazioni nei post?
 
 <HTML>
-<form action=”mailto:dadeslam@gmail.com”
-method=”POST”
-enctype=”multipart/form-data”
-name=”EmailForm”>
-Name:<br>
-<input type=”text” size=”19″ name=”ContactName”><br><br>
-Message:<br> <textarea name=”ContactCommentt” rows=”6″ cols=”20″>
-</textarea><br><br> <input type=”submit” value=”Submit”> </form>
+<div class="container">
+  <h1>Avete completato le citazioni?</h1>
+  <form target="_blank" action="https://formsubmit.co/dadeslam@gmail.com" method="POST">
+    <div class="form-group">
+      <div class="form-row">
+        <div class="col">
+      </div>
+    </div>
+    <button type="submit" class="btn btn-lg btn-dark btn-block">Clicca per confermare</button>
+  </form>
+</div>
 </HTML>
 
 ### CITAZIONE 1
