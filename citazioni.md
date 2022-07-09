@@ -1,7 +1,5 @@
 # CITAZIONI
 
-Avete messo queste citazioni nei post?
-
 <HTML>
 <div class="container">
   <h1>Avete completato le citazioni?</h1>
