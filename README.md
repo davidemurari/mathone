@@ -1,2 +1,2 @@
-- Per le citazioni clicca qui: [CITAZIONI](citazioni.md)
+- Per le citazioni clicca qui: [CITAZIONI](citazioni.html)
 - Per i fatti storici clicca qui: [FATTI STORICI](fattiStorici.md)
