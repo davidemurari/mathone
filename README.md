@@ -9,6 +9,7 @@
         <div class="col">
       </div>
     </div>
-    <button type="submit" class="btn btn-lg btn-dark btn-block">Clicca per confermare</button>
+    <button type="submit" class="btn btn-lg btn-dark btn-block">Clicca per confermare
+    </button>
   </form>
 </div>
