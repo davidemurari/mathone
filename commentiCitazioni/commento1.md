@@ -1,0 +1,4 @@
+
+Ho sempre apprezzato il fatto che la matematica, partendo da semplici assunzioni (assiomi e postulati) sia in grado di costruire risultati molto complessi. Questa sua costruttività e razionalità è anche ciò che la rende difficile da studiare per molti, dato che qualsiasi passaggio e ragionamento è importante, gioca un ruolo significativo. Al tempo stesso, però, ritengo che sia ancora più interessante quanto questa costruzione puramente logica sia anche in grado di spiegare ed approssimare molto bene fenomeni naturali e aspetti concreti della vita.
+
+Cosa ne pensi riguardo a questa citazione e questi ragionamenti?
