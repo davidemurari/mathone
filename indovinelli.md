@@ -19,4 +19,6 @@ La risposta è 100 cm^2.
 
 Decomponendo la figura data seguendo le linee tratteggiate e ricomponendola ruotando i due semicerchi in senso orario di 270° intorno ad A e B rispettivamente (vedi figure sottostanti), si ottiene un quadrato avente il lato lungo 10 cm la cui area, equivalente a quella della figura data, è 100cm^2. 
 
+![Soluzione](soluzioneOlimpiadi.png)
+
 (Fonte : Giochi di Archimede 5 dicembre 2000)
