@@ -1,7 +1,7 @@
 # CITAZIONI
 
 Immagine da usare come background:
-![Template citazioni](templateCitazioni.png)
+![Template citazioni](templateCitazione.png)
 
 ### CITAZIONE 1
 
