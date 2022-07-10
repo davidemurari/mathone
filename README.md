@@ -7,8 +7,7 @@
 
 > Ogni settimana pubblichiamo 7 post + 1 reel.
 
->Per ritagliare le immagini su Canva e togliere i bordi bianchi guardare qui:
-![video](tutorial.mp4)
+>Per ritagliare le immagini su Canva e togliere i bordi bianchi guardare qui: [TUTORIAL](https://www.loom.com/share/4c9362bab3dc41719c7ada62f94eb4ca)
 
 I post sono divisi in questo modo:
 - 2 citazioni
