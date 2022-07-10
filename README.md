@@ -7,6 +7,9 @@
 
 > Ogni settimana pubblichiamo 7 post + 1 reel.
 
+>Per ritagliare le immagini su Canva e togliere i bordi bianchi guardare qui:
+![video](tutorial.mp4)
+
 I post sono divisi in questo modo:
 - 2 citazioni
 - 2 meme
