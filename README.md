@@ -25,6 +25,7 @@ I post sono divisi in questo modo:
 
 > **Compiti Ari e Vale**
 > 1. Trovare 2 citazioni a settimana [LINK PER TROVARLE](https://www.frasicelebri.it/argomento/matematica/)
+  - mandarle su whatsapp il sabato sera
 > 2. Trovare 2 meme a settimana
 > 3. Preparare post graficamente
 > 4. Programmare/pubblicare
