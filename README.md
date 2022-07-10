@@ -1,7 +1,7 @@
 - Per le citazioni clicca qui: [CITAZIONI](citazioni.md)
 - Per i fatti storici clicca qui: [FATTI STORICI](fattiStorici.md)
 - Per gli indovinelli clicca qui: [INDOVINELLI](indovinelli.md)
-- Per le curiosità clicca qui: [CURIOSITÁ](curiosità.md)
+- Per le curiosità clicca qui: [CURIOSITÀ](curiosità.md)
 
 > File in cui sono radunati i suggerimenti dei followers: [SUGGERIMENTI](suggerimenti.md)
 
