@@ -7,3 +7,6 @@ Immagine da usare come background:
 
 ![Template soluzione](templateSoluzione.png)
 
+### Indovinello della settimana
+
+### Soluzione
