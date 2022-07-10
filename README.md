@@ -28,6 +28,7 @@ I post sono divisi in questo modo:
   - mandarle su whatsapp il sabato sera
 > 2. Trovare 2 meme a settimana
 > 3. Preparare post graficamente
+  - trovate i templates colorate per i post nelle 4 pagine dedicate
 > 4. Programmare/pubblicare
 
 > **Compiti Davide**
