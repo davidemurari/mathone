@@ -3,6 +3,8 @@
 - Per gli indovinelli clicca qui: [INDOVINELLI](indovinelli.md)
 - Per le curiosità clicca qui: [CURIOSITÁ](curiosità.md)
 
+> File in cui sono radunati i suggerimenti dei followers: [SUGGERIMENTI](suggerimenti.md)
+
 > Ogni settimana pubblichiamo 7 post + 1 reel.
 
 I post sono divisi in questo modo:
