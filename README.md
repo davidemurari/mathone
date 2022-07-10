@@ -34,7 +34,7 @@ I post sono divisi in questo modo:
 > 2. Trovare fatto storico
 > 3. Trovare un indovinello matematico
 > 4. Trovare una curiosità matematica
-> 5. Preparare un reel magari estranedo da un video YT
+> 5. Preparare un reel magari estraendo da un video YT
 
 <div class="container">
   <h1>Avete completato i post?</h1>
