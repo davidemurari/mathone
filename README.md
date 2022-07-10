@@ -21,7 +21,12 @@ I post sono divisi in questo modo:
 - Sabato : Meme
 - Domenica : Curiosità
 
-fvfd
+> **Compiti Ari e Vale**
+> 1. Trovare 2 citazioni a settimana
+> 2. Trovare 2 meme a settimana
+> 3. Preparare post graficamente
+> 4. Programmare/pubblicare
+
 <div class="container">
   <h1>Avete completato i post?</h1>
   <form target="_blank" action="https://formsubmit.co/dadeslam@gmail.com" method="POST">
