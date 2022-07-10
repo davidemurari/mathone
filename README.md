@@ -1,5 +1,7 @@
 - Per le citazioni clicca qui: [CITAZIONI](citazioni.md)
 - Per i fatti storici clicca qui: [FATTI STORICI](fattiStorici.md)
+- Per gli indovinelli clicca qui: [INDOVINELLI](indovinelli.md)
+- Per le curiosità clicca qui: [CURIOSITÁ](curiosità.md)
 
 <div class="container">
   <h1>Avete completato i post?</h1>
