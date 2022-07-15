@@ -35,4 +35,4 @@ A causa della distruzione di alcuni templi buddisti, molte tavolette andarono pe
 
 (Fonte : Libro "Mathematical Curiosities - A Treasure Trove of Unexpected Entertainments")
 
-![Sangaku](sangaku.jpeg)
+![Sangaku](sangaku.png)
