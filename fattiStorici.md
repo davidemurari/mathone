@@ -33,4 +33,6 @@ La complessità dei problemi riportati varia molto, però uno studente con conos
 
 A causa della distruzione di alcuni templi buddisti, molte tavolette andarono perse. Ad oggi esistono circa 900 di queste.
 
+(Fonte : Libro "Mathematical Curiosities - A Treasure Trove of Unexpected Entertainments")
+
 ![Sangaku](sangaku.jpeg)
