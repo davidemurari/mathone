@@ -17,3 +17,6 @@ Identificò poi la Via Lattea come un enorme gruppo di stelle e corpi celesti, r
 
 ![Galilei](siderus.jpeg)
 
+---
+
+# Nuova settimana
