@@ -1,4 +1,4 @@
 ## Citazione 2
 
-“Numero, posto, combinazione [sono] le tre sovrapposte, distinte ma intersecantesi sfere di pensiero alle quali tutte le idee matematiche possono essere riferite... le tre nozioni cardinali di Numero, Spazio e Ordine.”
-JAMES JOSEPH SYLVESTER
+“La matematica è l'alfabeto nel quale Dio ha scritto l'universo.”
+(Galileo Galilei)

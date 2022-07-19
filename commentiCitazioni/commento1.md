@@ -1,5 +1,5 @@
 ## Commento citazione 1
 
-Ho sempre apprezzato il fatto che la matematica, partendo da semplici assunzioni (assiomi e postulati) sia in grado di costruire risultati molto complessi. Questa sua costruttività e razionalità è anche ciò che la rende difficile da studiare per molti, dato che qualsiasi passaggio e ragionamento è importante, gioca un ruolo significativo. Al tempo stesso, però, ritengo che sia ancora più interessante quanto questa costruzione puramente logica sia anche in grado di spiegare ed approssimare molto bene fenomeni naturali e aspetti concreti della vita.
+Non sono per niente esperto di musica, ma condivido il pensiero nascosto dietro questa citazione. È molto chiaro come sia musica che matematica abbiano grandi dosi di creatività alla base. Al tempo stesso però nella musica non ci sono degli assiomi o delle regole su cui tutto è costruito e ricavato, c'è in un certo senso meno razionalità e ci sono meno vincoli. Chiaramente non tutti i suoni stanno bene insieme e quindi anche in questo campo ci sono degli aspetti di razionalità, ma nulla vieta di provare a sfidarli, abbatterli e provare delle composizioni più stravaganti e fuori dagli schemi. In matematica questo è più difficile e il filo conduttore è dato dalla necessità di proseguire facendo passaggi sempre giustificabili razionalmente.
 
-Cosa ne pensi riguardo a questa citazione e questi ragionamenti?
+Sono curioso di sapere se tra di voi c'è qualcuno che ne sa di musica (per esempio perché suona uno strumento) e in tal caso cosa ne pensate di queste parole.
