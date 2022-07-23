@@ -1,5 +1,1 @@
 ## Commento citazione 1
-
-Non sono per niente esperto di musica, ma condivido il pensiero nascosto dietro questa citazione. È molto chiaro come sia musica che matematica abbiano grandi dosi di creatività alla base. Al tempo stesso però nella musica non ci sono degli assiomi o delle regole su cui tutto è costruito e ricavato, c'è in un certo senso meno razionalità e ci sono meno vincoli. Chiaramente non tutti i suoni stanno bene insieme e quindi anche in questo campo ci sono degli aspetti di razionalità, ma nulla vieta di provare a sfidarli, abbatterli e provare delle composizioni più stravaganti e fuori dagli schemi. In matematica questo è più difficile e il filo conduttore è dato dalla necessità di proseguire facendo passaggi sempre giustificabili razionalmente.
-
-Sono curioso di sapere se tra di voi c'è qualcuno che ne sa di musica (per esempio perché suona uno strumento) e in tal caso cosa ne pensate di queste parole.
