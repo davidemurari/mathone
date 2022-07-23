@@ -1,4 +1,4 @@
 ## Citazione 1
 
-“La matematica è la musica della ragione."
-(James Joseph Sylvester)
+“La reale verità matematica va oltre le mere costruzioni prodotte dall'uomo.”
+ROGER PENROSE

@@ -36,8 +36,8 @@ I post sono divisi in questo modo:
 > **Compiti Davide**
 > 1. Scrivere commenti alle 2 citazioni (da fare)
 > 2. Trovare fatto storico (trascrivilo da obsidian)
-> 3. Trovare un indovinello matematico (fatto)
-> 4. Trovare una curiosità matematica (metti immagine)
+> 3. Trovare un indovinello matematico
+> 4. Trovare una curiosità matematica
 > 5. Preparare un reel magari estraendo da un video YT
 
 <div class="container">
