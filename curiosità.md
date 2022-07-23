@@ -7,14 +7,6 @@ Immagine da usare come background:
 
 ### Curiosità della settimana
 
-E' perfettamente sensato matematicamente dire che ci sono numeri irrazionali più irrazionali di altri. Le migliori approssimazioni razionali di un numero si ottengono costruendo la sua espansione in frazioni continue, che definisce una sequenza di numeri razionali che sono le successive migliori approssimazioni del numero in esame. Per determinare quanto sia irrazionale un numero, si può quindi osservare quanto lentamente converge ad esso la sua espansione in frazioni continue. Seguendo questo ragionamento, il "numero più irrazionale" è quello la cui sequenza di numeri razionali prima definita converge più lentamente. Questo è la sezione aurea, la cui frazione continua associata è riportata qui sotto.
-
-![Sezione aurea](sezAurea.png)
-
----
-
-# Nuova settimana
-
 Secondo una leggenda Cinese, l'imperatore Yu che visse nel 3° millennio AC, incontrò una tartaruga sacra, nel Fiume Giallo, cone delle strane incisioni sul guscio (la vedi in figura). Queste incisioni sono ora note come il "Lo shu". 
 
 I numeri incisi sul guscio hanno la proprietà di avere ogni riga, colonna e diagonale che somma a 15. Un po' come nel sudoku, dove però sommano a 45. 
@@ -33,3 +25,11 @@ com/MagicSquare.html) .
 
 ![Tartaruga](Lo_shu_numeri_quadrato_magico.jpeg)
 ![Quadrato Magico](magicSquare.png)
+
+---
+
+### Nuova settimana
+
+Ernst Kummer è stato un algebrista tedesco, uno tra i maggiori contributori alla dimostrazione dell'ultimo Teorema di Fermat prima dell'era moderna. Detto ciò, lui era abbastanza "scarso" in aritmetica, a tal punto che doveva sempre chiedere ai suoi studenti di fargli i calcoli. In una circostanza si trovò a dover calcolare 9x7. 'Umm...9 per 7 è ... 9 per ... 7 ... è ...'. Uno studente suggerì '61'. Kummer scrisse quindi questo risultato alla lavagna. 'No, professore! Dovrebbe essere 67!', disse un altro. 'Dai su, ragazzi', disse Kummer. 'Non possono essere veri entrambi. Deve essere uno o l'altro'.
+
+Leggenda o realtà? Sta di fatto che è vero che per essere un bravo matematico non è condizione nè necessaria nè sufficiente essere delle brave calcolatrici 😎

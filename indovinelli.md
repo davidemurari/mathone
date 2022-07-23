@@ -10,24 +10,6 @@ Immagine da usare come background:
 
 ### Indovinello della settimana
 
-Il perimetro della regione raffigurata è formato da quattro semicirconferenze di diametro 10 cm. Quanto vale la sua area?
-
-![Immagine del problema](olimpiadi.png)
-
-### Soluzione
-
-La risposta è 100 cm^2. 
-
-Decomponendo la figura data seguendo le linee tratteggiate e ricomponendola ruotando i due semicerchi in senso orario di 270° intorno ad A e B rispettivamente (vedi figure sottostanti), si ottiene un quadrato avente il lato lungo 10 cm la cui area, equivalente a quella della figura data, è 100cm^2. 
-
-![Soluzione](soluzioneOlimpiadi.png)
-
-(Fonte : Giochi di Archimede 5 dicembre 2000)
-
----
-
-# Nuova settimana
-
 ### Indovinello della settimana
 Osservando le temperature registrate a Cesenatico negli ultimi mesi di dicembre e gennaio, Stefano ha notato una strana coincidenza: in tutti i giorni di questo periodo (esclusi il primo e l'ultimo) la temperatura minima  e stata la somma della temperatura minima del giorno precedente e del giorno successivo.
 
@@ -49,3 +31,17 @@ Ora la temperatura minima del 25 dicembre coincide con quella del primo, in quan
 ![Soluzione](tabella_sol.png)
 
 (Fonte : Gara di Cesenatico del 2004)
+
+---
+
+# Nuova settimana
+
+### Indovinello
+
+Andrea incolla 27 normali dadi a 6 facce tra loro in modo da formare un grande cubo. I dadi sono orientati in modo che le somme dei valori leggibili su ciascuna faccia del cubo siano, in un qualche ordine, 14, 22, 30, 38, 46, 54. Quanto vale la somma di tutte le facce dei dadi che, essendo state incollate tra loro, non si leggono più?
+
+### Soluzione
+
+ La somma dei valori sulle facce di un dado è 1 + 2 + 3 + 4 + 5 + 6 = 21. La somma su tutte le facce, visibili e non, è quindi 27*21 = 567. Per ottenere la somma sulle facce nascoste possiamo sottrarre a questo numero la somma dei numeri scritti su quelle visibili: la risposta è quindi 567 − (14 + 22 + 30 + 38 + 46 + 54) = 567 − 204 = 363.
+
+(Fonte : Olimpiadi - Gara di Febbraio 2017)
