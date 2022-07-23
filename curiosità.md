@@ -33,3 +33,5 @@ com/MagicSquare.html) .
 Ernst Kummer è stato un algebrista tedesco, uno tra i maggiori contributori alla dimostrazione dell'ultimo Teorema di Fermat prima dell'era moderna. Detto ciò, lui era abbastanza "scarso" in aritmetica, a tal punto che doveva sempre chiedere ai suoi studenti di fargli i calcoli. In una circostanza si trovò a dover calcolare 9x7. 'Umm...9 per 7 è ... 9 per ... 7 ... è ...'. Uno studente suggerì '61'. Kummer scrisse quindi questo risultato alla lavagna. 'No, professore! Dovrebbe essere 67!', disse un altro. 'Dai su, ragazzi', disse Kummer. 'Non possono essere veri entrambi. Deve essere uno o l'altro'.
 
 Leggenda o realtà? Sta di fatto che è vero che per essere un bravo matematico non è condizione nè necessaria nè sufficiente essere delle brave calcolatrici 😎
+
+![Ernst Kummer](kummer.jpeg)
