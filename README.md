@@ -34,7 +34,7 @@ I post sono divisi in questo modo:
 > 4. Programmare/pubblicare
 
 > **Compiti Davide**
-> 1. Scrivere commenti alle 2 citazioni (da fare)
+> 1. Scrivere commenti alle 2 citazioni (fatto)
 > 2. Trovare fatto storico (trascrivilo da obsidian)
 > 3. Trovare un indovinello matematico
 > 4. Trovare una curiosità matematica

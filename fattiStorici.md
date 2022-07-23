@@ -7,32 +7,10 @@ Immagine da usare come background:
 
 ### Fatto storico della settimana
 
-Anno : 1610
+Nel 1679 fu pubblicato "Ad locos planos et solidos isagoge" ("Introduzione ai luoghi piani e solidi"), ad opera di Fermat. Essendo che quest'opera è stata pubblicata dopo la sua morte, spesso si attribuisce l'invenzione della geometria analitica unicamente a Cartesio. Questo è un peccato perchè anche Fermat era arrivato a delle derivazioni simili, anche esposte in maniera più sistematica e didattica di Cartesio. Inoltre anche Fermat sembrava essere consapevole di una geometria analitica in più dimensioni, dato che scrisse
+"Vi sono certi problemi che comportano soltanto una incognita, e che possiamo chiamare determinati, per distinguerli dai problemi dei luoghi. Vi sono certi altri problemi che comportano due incognite e che non si possono mai ridurre a una incognita; questi sono i problemi dei luoghi. Nei problemi del primo tipo cerchiamo un unico punto, in quelli del secondo cerchiamo una curva. Ma se il problema che ci viene proposto comporta tre incognite, per soddisfare l'equazione dobbiamo trovare non solo un punto o una curva, ma un'intera superficie. In questo modo hanno origine luoghi superficiali ecc.."
+Tuttavia la geometria analitica nello spazio dovetta aspettare fino al XVIII secolo prima di poter essere efficacemente sviluppata.
 
-Galileo Galilei pubblica Sidereus Nuncius (Messaggio dalle stelle) che descrive le scoperte astronomiche che ha fatto con i suoi telescopi. Harriot osserva anche le lune di Giove ma non pubblica il suo lavoro. Durante le notti di quegli anni, Galilei osservò la volta stellata facendo osservazioni talmente rivoluzionarie da far crollare l'intera impalcatura dell'astronomia e della cosmologia aristotelico-tolemaica.
+(Fonte "Storia della matematica" Boyer)
 
-Prima di tutto individuò delle montagne e crateri sulla superficie della Luna, fino ad allora ritenuta completamente liscia e composta di materia celeste incorruttibile.
-
-Identificò poi la Via Lattea come un enorme gruppo di stelle e corpi celesti, raggruppati in ammassi. Per concludere questa breve panoramica, è importante ricordare come Galileo si concentrò anche su Giove, di cui scoprì 4 satelliti naturali, che chiamò "pianeti medicei". Ragionando sulle somiglianze di questi satelliti con la Luna, stabilì che Giove fosse un pianeta con parecchie somiglianze alla Terra.
-
-![Galilei](siderus.jpeg)
-
----
-
-# Nuova settimana
-
-Per oltre 200 anni, il Giappone rimase isolato dal resto del mondo per quanto riguarda idee e cultura. Questo periodo durò dal 1603 al 1868. In questi anni la geometria Euclidea rimase sconosciuta in Giappone, dove prima di questi anni la matematica fu influenzata da quella cinese. 
-
-Intorno al 1631, la matematica Giappponese iniziò a diventare popolare tra la gente, come un modo di divertirsi e di mettersi alla prova. Si concentravano prevalentemente sulla geometria piana, usando triangoli, poligoni e cerchi. Uno dei mezzi di comunicazione dei problemi, sfide e risultati di geometria è chiamato "Sangaku", ed è raffigurato nella figura del post. 
-
-Questi oggetti erano delle tavolette matematiche. Queste tavolette, ricche di rappresentazioni artistiche, erano esposte nei templi buddisti e riportavano sfide per i visitatori, che cercavano delle soluzioni a questi problemi. Queste tavolette riportavano problemi legati alle applicazioni di geometria di base, senza nessun nuovo teorema. Comunque, risolvendoli, qualche idea nuova ed interessante si iniziò a sviluppare, ma molte di queste si persero negli anni e non si diffusero nel XVIII secolo. 
-
-Nel 1790, il matematico Fujita Kagen pubblicò la prima colezione di questi problemi nel suo libro "Shimpeki Sampo", seguito dal secondo volume "Zoku Shimpeki Sampo".
-
-La complessità dei problemi riportati varia molto, però uno studente con conoscenze della scuola superiore moderna dovrebbe essere in grado di risolvere la maggior parte di essi. Tali livelli di difficoltà evolsero nel tempo, fino a passare a problemi più difficili nel XVIII secolo, come quello di inserire sfere all'interno di coni. 
-
-A causa della distruzione di alcuni templi buddisti, molte tavolette andarono perse. Ad oggi esistono circa 900 di queste.
-
-(Fonte : Libro "Mathematical Curiosities - A Treasure Trove of Unexpected Entertainments")
-
-![Sangaku](sangaku.png)
+![Fermat](Pierre_de_Fermat.jpeg)
