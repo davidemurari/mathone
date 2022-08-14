@@ -13,4 +13,5 @@ Immagine da usare come background:
 ![Colori](colors.jpg)
 Jacopo ha a disposizione 6 colori (tra cui il bianco) per colorare tutti i numeri interi. Vuole rispettare però queste condizioni: **n** e **n+5** devono avere lo stesso colore per ogni n intero e inoltre se **ab** è bianco, allora almeno uno tra **a** e **b** deve essere bianco. In quanti modi Jacopo può colorare gli interi?
 
-![Soluzione](tabella_sol.png)
+**Non pubblicate la soluzione, è per me.**
+![Soluzione](soluzia.png)
