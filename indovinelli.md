@@ -6,8 +6,6 @@
 Immagine da usare come background:
 ![Template indovinelli](templateIndovinello.png)
 
-![Template soluzione](templateSoluzione.png)
-
 ### Indovinello della settimana
 
 ![Colori](colors.jpg)
