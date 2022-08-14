@@ -1,6 +1,8 @@
 ## Commento citazione 1
 
-Nel 2005 Rogen Penrose ha ricevuto la medaglia Copley, da parte della Royal Society. Martin Rees, presidente di questa, descrisse l'enorme contributo di Penrose che l'ha portato a ricevere il premio come segue:
-"Roger has been producing original and important scientific ideas for half a century. His work is characterised by exceptional geometrical and physical insight. He applied new mathematical techniques to Einstein's theory, and led the renaissance in gravitation theory in the 1960s. His novel ideas on space and time and his concept of 'twistors' are increasingly influential. Even his recreations have had intellectual impact: for instance the 'impossible figures' popularised in Escher's artwork, and the never-repeating patterns of 'Penrose tiling'. He has influenced and stimulated a wide public through his lectures, and his best-selling and wide-ranging books."
+Alcuni matematici sono uccelli, altri sono rane. Gli uccelli volano alti nell'aria
+e osservano ampi panorami della matematica fino all'orizzonte lontano. Loro si interessano a concetti che unificano il nostro pensiero e riuniscono diversi problemi da diverse parti del paesaggio. Le rane vivono nel fango sottostante e vedono solo
+i fiori che crescono nelle vicinanze. Loro si occupano dei dettagli di particolari
+oggetti e risolvono i problemi uno alla volta.
+Freeman Dyson, Uccelli e rane
 
-Trovo che la citazione che trovi nell'immagine, combinata con il commento qui sopra, puntino nella direzione di cui abbiamo discusso la settimana scorsa, ovvero che la matematica ha un ruolo fondamentale nella realtà, al di là delle costruzioni matematiche che noi (matematici) ricaviamo e costruiamo. Questo rende interessante il cercare di scoprire nuove relazioni matematiche, nuovi modelli e vedere dove questi trovino posto nella realtà.

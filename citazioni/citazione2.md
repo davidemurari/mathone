@@ -1,4 +1,4 @@
 ## Citazione 2
 
-“Ci sono quelli che credono che la matematica possa sostenere se stessa e crescere senza ulteriori contatti con qualsiasi altra cosa al di fuori di se stessa, e quelli che credono che la natura sia ancora e sempre una delle principali (se non la principale) fonte di ispirazione matematica. Il primo gruppo viene identificato come ‘matematici puri’ (sebbene ‘puristi’ sarebbe più adeguato) mentre il secondo è, con uguale inadeguatezza, considerato come ‘matematici applicati’.”
-MARK KAC
+“Ho affermato che le matematiche sono molto utili per abituare la mente a un raziocinioesatto e ordinato; con ciò non è che io creda necessario che tutti gli uomini diventino dei matematici, ma quando con questo studio hanno acquisito il buon metodo di ragionare, essi lo possono usare in tutte le altri parti delle nostre conoscenze.”
+JOHN LOCKE

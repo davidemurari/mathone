@@ -1,5 +1,5 @@
 ## Commento citazione 2
 
-Trovo esemplare il modo in cui Kac descrive la distinzione tra matematici puri ed applicati. Al tempo stesso credo che però sia un po' limitante l'inquadrare matematica pura e applicata in base a quale sia la motivazione che le fa progredire. Questo perchè si suppone che ogni matematico che lavora su una particolare classe di problemi sia mosso dalla stessa "ispirazione". Mi spiego meglio facendo un esempio. Chi lavora per costruire modelli matematici per la biologia potrebbe essere sia spinto dal capire perchè certi sistemi biologici si comportino in un certo modo, ma anche dal semplice piacere di lavorare con delle equazioni differenziali che devono rispettare certi vincoli che sono dettati dall'applicazione alla biologia. Inoltre anche supposto di poter fare distinzione tra matematica pura ed applicata basandoci su ciò che ispira a lavorare, nel mondo moderno è ormai chiaro che le applicazioni che coinvolgono la matematica non solo possono essere "naturali" ma anche industriali e ce ne sono molte interessanti.
+“Ho affermato che le matematiche sono molto utili per abituare la mente a un raziocinioesatto e ordinato; con ciò non è che io creda necessario che tutti gli uomini diventino dei matematici, ma quando con questo studio hanno acquisito il buon metodo di ragionare, essi lo possono usare in tutte le altri parti delle nostre conoscenze.”
+JOHN LOCKE
 
-Cosa ne pensi? Ritieni di essere più interessato/a alla matematica pura o applicata? Come le distingueresti?
