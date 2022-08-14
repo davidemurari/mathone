@@ -1,8 +1,3 @@
 ## Commento citazione 1
 
-Alcuni matematici sono uccelli, altri sono rane. Gli uccelli volano alti nell'aria
-e osservano ampi panorami della matematica fino all'orizzonte lontano. Loro si interessano a concetti che unificano il nostro pensiero e riuniscono diversi problemi da diverse parti del paesaggio. Le rane vivono nel fango sottostante e vedono solo
-i fiori che crescono nelle vicinanze. Loro si occupano dei dettagli di particolari
-oggetti e risolvono i problemi uno alla volta.
-Freeman Dyson, Uccelli e rane
-
+Questa citazione trovo sia molto interessante e corretta. C'è chi contribuisce maggiormente alla matematica andando super in verticale su un argomento, e chi è più bravo a vedere le connessioni tra argomenti, tecniche e aree della matematica e quindi preferisce lavorare in orizzontale. Per me è ancora presto per dire cosa realmente preferisco tra i due approcci, ma per il momento propendo per l'approccio "uccello", vedremo in futuro. Entrambi gli approcci hanno chiaramente enormi difficoltà, nessuno dei due è più semplice dell'altro. Solitamente chi lavora più come un uccello, ha spesso le mani in pasta su più progetti e problemi diversi, spesso cercando anche connessioni tra questi. Chi lavora come una rana, invece, è davvero bravo ad utilizzare un particolare tipo di tecniche e strumenti, attacca spesso problemi simili e si concentra su un problema alla volta. Ora sono curioso, pensi di essere più un uccello o una rana?
