@@ -39,11 +39,3 @@ I post sono divisi in questo modo:
 > 3. Trovare un indovinello matematico
 > 4. Trovare una curiosità matematica
 > 5. Preparare un reel magari estraendo da un video YT
-
-<div class="container">
-  <h1>Avete completato i post?</h1>
-  <form target="_blank" action="https://formsubmit.co/dadeslam@gmail.com" method="POST">
-    <button type="submit" class="btn btn-lg btn-dark btn-block">Clicca per confermare
-    </button>
-  </form>
-</div>
