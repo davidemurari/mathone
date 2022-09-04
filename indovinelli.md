@@ -8,7 +8,7 @@ Immagine da usare come background:
 
 ### Indovinello della settimana
 
-Siano dati i numeri a = 1234321, b = 1002001 e c = 2^49 −2^48. Quali di essi sono dei quadrati perfetti?
+Matteo deve fare un test a crocette con 11 domande. Ciascuna domanda ha una sola risposta giusta. La prima domanda ha 2 possibili risposte (A e B), la seconda domanda ha 3 possibili risposte (A, B, C), e così via, fino all’undicesima domanda che ha 12 possibili risposte. Qual è la probabilità che facendo a caso il test Matteo dia almeno una risposta giusta?
 
 **Non pubblicate la soluzione, è per me.**
 ![Soluzione](soluzia.png)
