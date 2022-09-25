@@ -1,4 +1,4 @@
 ## Citazione 1
 
-“Gli scienziati odierni hanno sostituito gli esperimenti con la matematica e vagano smarriti equazione dopo equazione e alla fine costruiscono una struttura che non ha relazione con la realtà.”
-NIKOLA TESLA
+“Così come in algebra due affermazioni false ne danno una vera, così spero che il prodotto dei miei insuccessi si concluda con un successo.”
+VINCENT VAN GOGH

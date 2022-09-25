@@ -1,5 +1,3 @@
 ## Commento citazione 1
 
-Abbiamo già parlato varie volte del come la matematica si costruisca su se stessa e, in principio, non debba dar conto alle applicazioni. Tuttavia, come evidenzia Tesla, questo approccio alla costruzione della matematica inevitabilmente porta a risultati e teorie sempre più lontane dalla realtà, in molti contesti. Spesso però succede che dopo che una solida struttura matematica è stata ottenuta, possa crescere l'interesse nel provare ad applicarla a qualche problema concreto. Questa strategia porta con sè l'inevitabile problema che per arrivare a quella struttura non c'è stato alcun interesse verso il mondo "reale" e le applicazioni. Come conseguenza, si ottengono costruzioni matematiche complesse da comprendere e difficili da adattare a contesti concreti. Questo si contrappone con l'approccio sperimentale in cui la teoria deve interfacciarsi COSTANTEMENTE con l'esperimento. In tale approccio infatti la matematica serve per cercare di interpretare l'esperimento e spiegarlo, ma non cerca di costruire qualcosa di ampio che poi deve essere modellato alla realtà.
-
-Cosa ne pensi di questo "problema"? Sei d'accordo con cio che Tesla ha scritto?
+Le regole della matematica non sempre si applicano alla realtà ;) Però direi che con Van Gogh ci hanno preso!

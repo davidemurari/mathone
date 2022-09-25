@@ -1,4 +1,4 @@
 ## Citazione 2
 
-“Insegnando la matematica agli altri finisci per comprenderla meglio tu stessa.”
-IAN STEWART
+“Si può trovare la verità con la logica soltanto se la si è già trovata senza di essa.”
+GILBERT KEITH CHESTERTON
