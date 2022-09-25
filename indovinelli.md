@@ -8,7 +8,8 @@ Immagine da usare come background:
 
 ### Indovinello della settimana
 
-Matteo deve fare un test a crocette con 11 domande. Ciascuna domanda ha una sola risposta giusta. La prima domanda ha 2 possibili risposte (A e B), la seconda domanda ha 3 possibili risposte (A, B, C), e così via, fino all’undicesima domanda che ha 12 possibili risposte. Qual è la probabilità che facendo a caso il test Matteo dia almeno una risposta giusta?
+Di un intero positivo n sappiamo che termina con la cifra 5 e che la cifra delle decine di
+n^3 è dispari. Qual è la cifra delle decine di n^3?
 
 **Non pubblicate la soluzione, è per me.**
 ![Soluzione](soluzia.png)
