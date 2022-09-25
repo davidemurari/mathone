@@ -7,6 +7,6 @@ Immagine da usare come background:
 
 ### Fatto storico della settimana
 
-![Trianoglo rettangolo](triangoloRettangolo.jpeg)
+![Tsinghua Bamboo Slips](cina.jpeg)
 
-In una tavoletta babilonese, ora a Berlino, la diagonale di un rettangolo di lati 40 e 10 è risolta come 40 + 10^2/(2 × 40). Qui viene utilizzata una regola di approssimazione molto efficace (che la radice quadrata della somma di a^2 + b^2 può essere stimata come a + b^2/(2 x a)), la stessa regola che si trova frequentemente nelle scritture geometriche greche successive. Entrambi questi esempi di radici illustrano l'approccio aritmetico dei babilonesi in geometria. Mostrano anche che i babilonesi erano a conoscenza della relazione tra l'ipotenusa e i due lati di un triangolo rettangolo (ora comunemente noto come teorema di Pitagora) più di mille anni prima che i greci lo usassero.
+Un'analisi dei primi studi della matematica cinese ha dimostrato il suo sviluppo unico rispetto ad altre parti del mondo, portando gli studiosi ad assumere uno sviluppo del tutto indipendente. Il più antico testo matematico esistente dalla Cina è lo Zhoubi Suanjing, incertamente datato tra il 1200 a.C. e il 100 a.C. Tuttavia, il Tsinghua Bamboo Slips, contenente la prima tabella di moltiplicazione decimale conosciuta, è datato intorno al 305 a.C. ed è forse il più antico testo matematico sopravvissuto della Cina.
