@@ -8,8 +8,7 @@ Immagine da usare come background:
 
 ### Indovinello della settimana
 
-Di un intero positivo n sappiamo che termina con la cifra 5 e che la cifra delle decine di
-n^3 è dispari. Qual è la cifra delle decine di n^3?
+Siano a = 2255 e b = 2256. Qual è la cifra delle unità del minimo comune multiplo di a e b?
 
 **Non pubblicate la soluzione, è per me.**
 ![Soluzione](soluzia.png)
