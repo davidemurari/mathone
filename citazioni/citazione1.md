@@ -1,4 +1,4 @@
 ## Citazione 1
 
-“Così come in algebra due affermazioni false ne danno una vera, così spero che il prodotto dei miei insuccessi si concluda con un successo.”
-VINCENT VAN GOGH
+“La scienza della matematica offre il più brillante esempio di come la pura ragione possa con successo allargare il suo campo senza l'aiuto dell'esperienza.”
+IMMANUEL KANT

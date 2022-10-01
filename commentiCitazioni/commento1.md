@@ -1,3 +1,4 @@
 ## Commento citazione 1
 
-Le regole della matematica non sempre si applicano alla realtà ;) Però direi che con Van Gogh ci hanno preso!
+“La scienza della matematica offre il più brillante esempio di come la pura ragione possa con successo allargare il suo campo senza l'aiuto dell'esperienza.”
+IMMANUEL KANT

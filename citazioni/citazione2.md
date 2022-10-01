@@ -1,4 +1,4 @@
 ## Citazione 2
 
-“Si può trovare la verità con la logica soltanto se la si è già trovata senza di essa.”
-GILBERT KEITH CHESTERTON
+“Se vuoi ispirare fiducia, fornisci molti dati statistici. Non importa che siano esatti, neppure che siano comprensibili. Basta che siano in quantità sufficiente.”
+LEWIS CARROLL
