@@ -1,4 +1,3 @@
 ## Commento citazione 1
 
-“La scienza della matematica offre il più brillante esempio di come la pura ragione possa con successo allargare il suo campo senza l'aiuto dell'esperienza.”
-IMMANUEL KANT
+La matematica è costruita su assiomi attraverso ragionamenti logici. Per questo motivo è chiaramente corretto ciò che Kant afferma nelle parole qui sopra. La cosa interessante è però che questa costruzione è una delle poche unicamente basate sulla ragione e sulla logica. Inoltre, ancora più soprendente a mio parere, spesso accade che questa costruzione logica inaspettatamente è in grado di descrivere aspetti della realtà in maniera parecchio attendibile. Per ottenere descrizioni più accurate della realtà però è spesso necessario confrontarsi con l'esperienza, quindi possiamo dire che in questo contesto usciamo dalla descrizione di Kant. Lui sembra fare più riferimento alla costruzione della matematica in quanto matematica, che ovviamente non deve dar conto a niente e nessuno, se non alla logica.

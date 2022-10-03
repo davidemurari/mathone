@@ -1,4 +1,3 @@
 ## Commento citazione 2
 
-“Se vuoi ispirare fiducia, fornisci molti dati statistici. Non importa che siano esatti, neppure che siano comprensibili. Basta che siano in quantità sufficiente.”
-LEWIS CARROLL
+Ormai è sempre più difficile capire di che notizie fidarsi e di quali meno. Infatti abbiamo a disposizione immense quantità di dati e spesso questi possono essere sfruttati per supportare più o meno qualsiasi affermazione. Oggi più che mai quindi le parole di Carrol prendono significato ed è quindi importante che chiunque acquisisca una buona capacità di interpretare le statistiche ed informarsi in maniera autonoma. Cosa ne pensi di queste parole e della mia riflessione?
