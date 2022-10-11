@@ -7,21 +7,14 @@ Immagine da usare come background:
 
 ### Curiosità della settimana
 
-Quanti modi ci sono per riordinare le lettere dell'alfabeto (inglese)?
-403,291,461,126,605,635,584,000,000 
+![Curva del drago](curvaDelDrago.mp4)
 
-Quanti modi ci sono per mischiare un mazzo di carte?
-80,658,175,170,943,878,571,660,636,856,403,766,975,
-289,505,440,883,277,824,000,000,000,000
+La curva del drago di Heighway, o semplicemente curva del drago ( o "Curva di Harter-Heighway" o "Drago di Heighway"), è una curva ricorsiva non auto-intersecante il cui nome deriva dalla sua somiglianza con la nota creatura mitica.
 
-Quante posizioni diverse ci sono per un cubo di Rubik?
-43,252,003,274,489,856,000 
+E' stata descritta da Martin Gardner nei suoi articoli nella rubrica "Giochi matematici" del "Scientific American" nel 1967. 
 
-Quanti diversi sudoku ci sono?
-6,670,903,752,021,072,936,960
-(Calcolato da Bertram Felgenhauer e Frazer Jarvis nel 2005.)
+Per costruire la curva si può partire da un segmento. Spezzarlo a metà e muovere il punto medio finchè non si ottiene un angolo interno tra i due segmenti di 90°. Si procede poi ricorsivamente in questo modo e si può ottenere la curva del drago di Heighway.
 
-Quante diverse sequenze di 100 zeri e uni ci sono?
-1,267,650,600,228,229,401,496,703,205,376
+Come questa ce ne sono molte altre ottenibili ricorsivamente, ovvero curve auto-similari e magari ne parlerò in un video apposito con qualche simulazione numerica. Potrebbe interessarti?
 
-Estratto e tradotto da: Ian Stewart. “Cabinet's of mathematical curiosities”. 
+(Fonte : Wikipedia, però farò un video in cui approfondisco questa e altre curve)

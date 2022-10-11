@@ -8,7 +8,13 @@ Immagine da usare come background:
 
 ### Indovinello della settimana
 
-Siano a = 2255 e b = 2256. Qual è la cifra delle unità del minimo comune multiplo di a e b?
+![Rettangolo](rettangolo.png)
+
+Il rettangolo ABCD ha area 1000. Inoltre l’arco MD ha centro in A, l’arco MC ha centro in B e l’arco CD ha centro in M. Quanto vale l’area
+colorata in grigio in figura?
+
+In settimana pubblicherò un video sul canale in cui presento una soluzione al problema.
 
 **Non pubblicate la soluzione, è per me.**
-![Soluzione](soluzia.png)
+![Soluzione](soluzia1.png)
+![Soluzione](soluzia2.png)

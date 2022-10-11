@@ -1,4 +1,4 @@
 ## Citazione 2
 
-“Se vuoi ispirare fiducia, fornisci molti dati statistici. Non importa che siano esatti, neppure che siano comprensibili. Basta che siano in quantità sufficiente.”
-LEWIS CARROLL
+“È più importante che un'equazione mostri una bellezza teorica piuttosto che una praticità diretta. Sembra che lavorare su un'equazione per il raggiungimento di una bellezza e di un'armonia porti a un sicuro progresso.”
+PAUL ADRIEN MAURICE DIRAC
