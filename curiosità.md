@@ -7,7 +7,7 @@ Immagine da usare come background:
 
 ### Curiosità della settimana
 
-**Mettete questo video nel post : **\href{https://drive.google.com/file/d/1aAEoq_TfzytzHHiYGb6hh328wgccXS7P/view?usp=sharing}
+Mettete questo video nel post : https://drive.google.com/file/d/1aAEoq_TfzytzHHiYGb6hh328wgccXS7P/view?usp=sharing
 
 La curva del drago di Heighway, o semplicemente curva del drago ( o "Curva di Harter-Heighway" o "Drago di Heighway"), è una curva ricorsiva non auto-intersecante il cui nome deriva dalla sua somiglianza con la nota creatura mitica.
 
