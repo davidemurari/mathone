@@ -6,15 +6,10 @@
 Immagine da usare come background:
 ![Template indovinelli](templateIndovinello.png)
 
-### Indovinello della settimana
+### Indovinello 1
 
-![Rettangolo](rettangolo.png)
+#### [Indovinello](indovinelli/indovinello1.md)
 
-Il rettangolo ABCD ha area 1000. Inoltre l’arco MD ha centro in A, l’arco MC ha centro in B e l’arco CD ha centro in M. Quanto vale l’area
-colorata in grigio in figura?
+### Indovinello 2
 
-In settimana pubblicherò un video sul canale in cui presento una soluzione al problema.
-
-**Non pubblicate la soluzione, è per me.**
-![Soluzione](soluzia1.png)
-![Soluzione](soluzia2.png)
+#### [Indovinello](indovinelli/indovinello2.md)
