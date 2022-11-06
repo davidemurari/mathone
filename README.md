@@ -1,29 +1,27 @@
 - Per le citazioni clicca qui: [CITAZIONI](citazioni.md)
-- Per i fatti storici clicca qui: [FATTI STORICI](fattiStorici.md)
+- Per i fatti storici/curiosità clicca qui: [CURIOSITA'](curiosità.md)
 - Per gli indovinelli clicca qui: [INDOVINELLI](indovinelli.md)
-- Per le curiosità clicca qui: [CURIOSITÀ](curiosità.md)
 
 > File in cui sono radunati i suggerimenti dei followers: [SUGGERIMENTI](suggerimenti.md)
 
-> Ogni settimana pubblichiamo 7 post + 1 reel.
+> Ogni settimana pubblichiamo 7 post.
 
 >Per ritagliare le immagini su Canva e togliere i bordi bianchi guardare qui: [TUTORIAL](https://www.loom.com/share/4c9362bab3dc41719c7ada62f94eb4ca)
 
 I post sono divisi in questo modo:
 - 2 citazioni
 - 2 meme
-- 1 fatto storico
-- 1 curiosità matematica
-- 1 indovinello (olimpiadi o cose toste)
+- 1 fatto storico/1 curiosità matematica
+- 2 indovinello (olimpiadi o cose toste)
 
 **Giorni della settimana:**
 - Lunedì : Meme
 - Martedì : Citazione
-- Mercoledì : Storico
-- Giovedì : Indovinello
-- Venerdì : Citazione
-- Sabato : Meme
-- Domenica : Curiosità
+- Mercoledì : Indovinello
+- Giovedì : Storico/Curiosità
+- Venerdì : Meme
+- Sabato : Citazione
+- Domenica : Indovinello
 
 > **Compiti Ari e Vale**
 > 1. Trovare 2 citazioni a settimana [LINK PER TROVARLE](https://www.frasicelebri.it/argomento/matematica/)
@@ -35,7 +33,5 @@ I post sono divisi in questo modo:
 
 > **Compiti Davide**
 > 1. Scrivere commenti alle 2 citazioni (fatto)
-> 2. Trovare fatto storico (trascrivilo da obsidian)
-> 3. Trovare un indovinello matematico
-> 4. Trovare una curiosità matematica
-> 5. Preparare un reel magari estraendo da un video YT
+> 2. Trovare fatto storico/curiosità
+> 3. Trovare 2 indovinelli
