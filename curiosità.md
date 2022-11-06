@@ -7,14 +7,12 @@ Immagine da usare come background:
 
 ### Curiosità della settimana
 
-Mettete questo video nel post : https://drive.google.com/file/d/1aAEoq_TfzytzHHiYGb6hh328wgccXS7P/view?usp=sharing
+![Alpha Tensor](alphaTensor.png)
 
-La curva del drago di Heighway, o semplicemente curva del drago ( o "Curva di Harter-Heighway" o "Drago di Heighway"), è una curva ricorsiva non auto-intersecante il cui nome deriva dalla sua somiglianza con la nota creatura mitica.
+Gli algoritmi matematici sono alla base di gran parte degli strumenti tecnologici, dei macchinari, delle aziende, e quindi hanno inevitabilmente un ruolo fondamentale nella storia dell'umanità. Per rendere un algoritmo utilizzabile, è necessario uno studio attento per quanto riguarda l'efficienza e la velocità con cui l'algoritmo è in grado di trovare la corretta soluzione. In gran parte delle circostanze, è necessaria una dettagliata conoscenza del problema per disegnare un buon algoritmo che lo risolva. Per questo motivo, è naturale pensare che sia necessario un matematico/a che lavori per definire un buon algoritmo.
 
-E' stata descritta da Martin Gardner nei suoi articoli nella rubrica "Giochi matematici" del "Scientific American" nel 1967. 
+Recentemente tuttavia l'azienda DeepMind si è interessata a definire ed allenare dei modelli basati sull'intelligenza artificiale, in grado di scoprire nuovi algoritmi in autonomia. Qualche settimana fa, hanno infatti pubblicato un articolo in cui mostrano quello che chiamano AlphaTensor, un modello allenato per scoprire algoritmi efficienti per la moltiplicazione di matrici. Questo sembra un problema di poco conto, dato che siamo tutti in grado di moltiplicare due matrici, ma il farlo in maniera efficiente non è per nulla banale. Inoltre, quest'operazione è alla base di gran parte delle operazioni che un calcolatore esegue costantemente, per cui avere un modo di completarle rapidamente è davvero importante. Questo modello, basato sul paradigma del "Reinforcement Learning", è arrivato a risultati davvero sorprendenti, scoprendo in autonomia degli algoritmi al pari di quelli considerati allo stato delle arti. 
 
-Per costruire la curva si può partire da un segmento. Spezzarlo a metà e muovere il punto medio finchè non si ottiene un angolo interno tra i due segmenti di 90°. Si procede poi ricorsivamente in questo modo e si può ottenere la curva del drago di Heighway.
+Il loro modello si basa su idee e strutture simili a ciò che avevano usato in precedenza per risolvere il problema dell'avvolgimento delle proteine e per battere il campione del mondo del gioco Go. Trovo che questo risultato sia davvero promettente e credo sia molto interessante l'idea che un giorno algoritmi di questo tipo possano collaborare con matematici e matematiche per ottenere risultati nuovi e rivoluzionari.
 
-Come questa ce ne sono molte altre ottenibili ricorsivamente, ovvero curve auto-similari e magari ne parlerò in un video apposito con qualche simulazione numerica. Potrebbe interessarti?
-
-(Fonte : Wikipedia, però farò un video in cui approfondisco questa e altre curve)
+Oggi più che in altri post sono davvero curioso di vedere cosa pensi di questa notizia. Credi sia troppo presto per parlare di collaborazione tra matematici e algoritmi? Pensi questi risultati siano preoccupanti?
