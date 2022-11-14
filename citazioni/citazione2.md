@@ -1,4 +1,4 @@
 ## Citazione 2
 
-“Le regole che descrivono la natura sembrano essere matematiche. Questo non è il risultato del fatto che è l'osservazione ad essere giudice, e non è una caratteristica necessaria della scienza il suo essere matematica. Succede semplicemente che si possono enunciare delle leggi matematiche, almeno per la fisica, che riescono a fare previsioni fantastiche. Perché la natura è matematica è, ancora una volta, un mistero.”
-RICHARD PHILLIPS FEYNMAN
+“Lo scopo della mia teoria è di stabilire una volta per tutte la certezza dei metodi matematici... Il presente stato delle cose, da quando siamo incappati nei paradossi, è intollerabile. Come pensare che le definizioni e i metodi deduttivi che si imparano, si insegnano e si usano in matematica, paragone di verità e certezza, come pensare che conducano ad assurdità? Se il pensieromatematico è fallace, dove troveremo la verità e la certezza?”
+DAVID HILBERT

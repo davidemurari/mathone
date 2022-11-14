@@ -1,3 +1,3 @@
 ## Commento citazione 1
 
-La matematica è difficile da inquadrare dato che, soprattutto negli ultimi secoli, si è ampliata enormemente in termini di temi di studio ed ognuno di questi sta raggiungendo livelli di profondità incredibili. Tuttavia, trovo che la categorizzazione che presenta Sylvester nelle parole qui sopra sia ancora un buon modo di incasellare gran parte degli aspetti della matematica. In base poi alla rilevanza che uno di questi aspetti assume, gli altri possono diventare meno evidenti ma credo sempre, in qualche misura, presenti.
+Cosa ne pensi?
